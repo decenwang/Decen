@@ -1,0 +1,5 @@
+Because of the updated R version, the latest R 4.0.1 might not be compatible well with the immunarch 0.6.5, when I try to install the immunarch 0.6.5, 
+it cannot be installed due to unknown reasons. when I attempt to use the immunarch 0.6.4, it also cannot be installed again.
+but luckily, I have installed the immunarch 0.6.4 in our workstation with R 3.6.0.
+Anyway, the file is more than 1Gb，I cannot upload, if you need, let me know, we try to crack it.
+Immunarch is really a nice job by Dr. Nazarov. If you can combine with ggplot2 and other packages, you can get good results.
